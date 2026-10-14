@@ -4,4 +4,4 @@
 * highiq
 * cursor
 * opencode
-* brain
+* fingers
