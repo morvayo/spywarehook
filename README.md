@@ -1,6 +1,6 @@
 # requirements 
 
-* jdk 17
 * highiq
+* jdk 17
 * opencode
 * fingers
