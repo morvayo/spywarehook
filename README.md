@@ -2,5 +2,5 @@
 
 * highiq
 * jdk 17
-* opencode
+* claude 2.4 sonnet
 * fingers
