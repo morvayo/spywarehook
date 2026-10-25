@@ -4,3 +4,4 @@
 * jdk 17
 * claude 2.4 sonnet
 * fingers
+* morvay or flu friend
